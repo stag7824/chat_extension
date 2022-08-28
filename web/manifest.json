@@ -1,0 +1,10 @@
+{
+  "name": "chrome_chat extension",
+  "description": "chat within organization",
+  "version": "1.0.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "/icons/icons8-chat-96.png"
+  },
+  "manifest_version": 3
+}
